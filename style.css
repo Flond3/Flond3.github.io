@@ -8,7 +8,11 @@ th{
 }
 
 #h1 {
+  font-size: 4rem;
+  font-family: serif;
   text-align: center;
-  color: antiquewhite;
-  text-shadow: 100px, black;
+  color: #ECFFDC;
+  
+  /* Text Shadow Property */
+  -webkit-text-stroke: 1px darkgreen;
 }
