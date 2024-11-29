@@ -8,6 +8,9 @@ th{
 }
 
 #h1{
+    color: black;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 3px black;
   text-align: center;
   top:20px;
 }
