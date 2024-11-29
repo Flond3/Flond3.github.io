@@ -32,3 +32,8 @@ th{
 #rr{
   color: grey;
 }
+
+body{
+  background-image: linear-gradient(rgba(50, 0, 50, 0.5), rgba(245, 255, 245, 0.5)),
+
+}
