@@ -9,5 +9,6 @@ th{
 
 #h1 {
   text-align: center;
-  text-shadow: 5px, white;
+  color: antiquewhite;
+  text-shadow: 5px, black;
 }
