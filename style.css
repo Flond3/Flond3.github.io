@@ -7,10 +7,12 @@ th{
   border: 1px solid black;
 }
 
-#h1h1 {
-	text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
+#h1 {
+  font-size: 4rem;
+  font-family: serif;
+  text-align: center;
+  color: #ECFFDC;
+  
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: darkgreen;
 }
