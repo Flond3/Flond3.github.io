@@ -8,11 +8,6 @@ th{
 }
 
 #h1 {
-  font-size: 4rem;
-  font-family: serif;
   text-align: center;
-  color: #ECFFDC;
-  
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: darkgreen;
+  text-shadow: 5px, white;
 }
