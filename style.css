@@ -44,3 +44,7 @@ nav ul li {
   letter-spacing: -8px;
   -webkit-text-stroke: 2px rgb(0, 0, 0);
 }
+
+#h1petit{
+  font-size: 50px;
+}
