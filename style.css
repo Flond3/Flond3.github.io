@@ -41,3 +41,14 @@ nav ul li {
   border: gold;
   border: 1px solid gold;
 }
+
+title {
+  color: transparent;
+  font-size: 100px;
+  background: url(https://e0.pxfuel.com/wallpapers/254/706/desktop-wallpaper-minecraft-stone-block-texture.jpg) repeat;
+  background-position: 40% 50%;
+  position: relative;
+  text-align: center;
+  line-height: 100px;
+  letter-spacing: -8px;
+}
