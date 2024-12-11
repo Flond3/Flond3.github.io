@@ -32,3 +32,12 @@ th{
 #rr{
   color: grey;
 }
+
+nav ul li {
+  float: left;
+  width: 24.8%;
+  text-align: center;
+  position: relative;
+  border: gold;
+  border: 1px solid gold;
+}
