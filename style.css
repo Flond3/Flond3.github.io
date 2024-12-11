@@ -42,5 +42,5 @@ nav ul li {
   text-align: center;
   line-height: 100px;
   letter-spacing: -8px;
-  -webkit-text-stroke: 3px rgb(0, 0, 0);
+  -webkit-text-stroke: 2px rgb(0, 0, 0);
 }
