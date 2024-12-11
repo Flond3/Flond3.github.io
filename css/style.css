@@ -32,7 +32,13 @@ nav ul li {
   border: 1px solid gold;
 }
 
-#h1 {
+#header{
+  width: 100%;
+  height: 100px;
+  color: black;
+}
+
+.h1 {
   color: transparent;
   background: url(https://as2.ftcdn.net/v2/jpg/03/81/93/25/1000_F_381932548_YH6WrPnz7ds5l6XtLwhBpxa51MqSNS7m.jpg) repeat;
   background-position: 40% 50%;
