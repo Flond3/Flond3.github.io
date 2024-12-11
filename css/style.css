@@ -46,8 +46,10 @@ nav ul li {
 
 .h1petit{
   font-size: 50px;
+  letter-spacing: -3px;
 }
 
 .h1grand{
   font-size: 100px;
+  letter-spacing: -6px;
 }
