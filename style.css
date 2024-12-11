@@ -7,16 +7,6 @@ th{
   border: 1px solid black;
 }
 
-#h1 {
-  font-size: 80px;
-  font-family: serif;
-  text-align: center;
-  color: #000000;
-  
-  /* Text Shadow Property */
-  -webkit-text-stroke: 1px rgb(255, 255, 255);
-}
-
 #div1{
   text-align:center;
   border: 15px solid green;
@@ -42,7 +32,7 @@ nav ul li {
   border: 1px solid gold;
 }
 
-title {
+#h1 {
   color: transparent;
   font-size: 100px;
   background: url(https://e0.pxfuel.com/wallpapers/254/706/desktop-wallpaper-minecraft-stone-block-texture.jpg) repeat;
@@ -51,4 +41,5 @@ title {
   text-align: center;
   line-height: 100px;
   letter-spacing: -8px;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
