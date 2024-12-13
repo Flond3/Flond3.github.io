@@ -20,6 +20,7 @@ th{
   margin: 25px;
   width: 20%;
   height: 50px;
+  justify-content: center;
   background-color: rgb(255, 240, 240);
   display: flex;
 }
