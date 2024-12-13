@@ -8,16 +8,16 @@ th{
   border: 1px solid black;
 }
 
-#div1{
+.button{
   text-align:center;
+  text-decoration: none;
   position: relative;
-  border: 2px solid rgb(0, 0, 0);
-  border-radius: 3px;
   padding: 10px;
   margin: 25px;
   width: 20%;
   height: 50px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 240, 240);
+  display: flex;
 }
 
 .rickroll{
