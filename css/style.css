@@ -12,7 +12,7 @@ th{
   text-align:center;
   text-decoration: none;
   position: relative;
-  border: 1px;
+  border: solid, 1px;
   border-color: black;
   border-radius: 3px;
   border-top: 0;
