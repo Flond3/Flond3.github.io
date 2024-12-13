@@ -24,7 +24,7 @@ th{
   width: 20%;
   height: 50px;
   justify-content: center;
-  background-image: linear-gradient(rgb(255, 240, 240),black, 20%);
+  background-image: linear-gradient(rgb(255, 240, 240),black);
   display: flex;
 }
 
