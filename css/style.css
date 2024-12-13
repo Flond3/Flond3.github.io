@@ -12,6 +12,9 @@ th{
   text-align:center;
   text-decoration: none;
   position: relative;
+  border-radius: 3px;
+  border-color: black;
+  border-top: 0;
   padding: 10px;
   margin: 25px;
   width: 20%;
