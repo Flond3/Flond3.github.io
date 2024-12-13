@@ -26,7 +26,7 @@ th{
 .header{
   width: 100%;
   height: 100px;
-  background-image: linear-gradient(black,rgb(255, 240, 240), 110%);
+  background-image: linear-gradient(black,rgb(255, 240, 240));
   text-align: center;
   padding: 0%;
   margin: -21.44px;
