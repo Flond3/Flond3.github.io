@@ -71,6 +71,8 @@ th{
 .button:hover{
   border: 1px solid black;
   background-image: url(https://thumbs.dreamstime.com/b/set-white-chess-knights-horses-realistic-vector-elements-different-position-positions-templates-movement-chessboard-309823470.jpg);
+  background-position: 40% 50%;
+  background-size: 60%;
   color: black;
   text-decoration: none;
   border-radius: 3px;
