@@ -14,12 +14,8 @@ th{
   text-decoration: none;
   color: whitesmoke;
   position: relative;
-  border: solid, 1px;
-  border-color: black;
+  border: solid, 1px black;
   border-radius: 3px;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-top: 0;
   padding: 10px;
   margin: 25px;
   width: 20%;
@@ -77,4 +73,5 @@ th{
   background-color: whitesmoke;
   color: black;
   text-decoration: none;
+  border-radius: 3px;
 }
