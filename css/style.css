@@ -66,3 +66,8 @@ th{
   color: black;
   text-decoration-line: none;
 }
+
+.alignbutton{
+  display: flex;
+  align-items: center;
+}
