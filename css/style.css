@@ -12,7 +12,7 @@ th{
   text-align:center;
   align-items: center;
   text-decoration: none;
-  color: black;
+  color: whitesmoke;
   position: relative;
   border: solid, 1px;
   border-color: black;
@@ -25,7 +25,7 @@ th{
   width: 20%;
   height: 50px;
   justify-content: center;
-  background-image: linear-gradient(rgb(255, 240, 240),black);
+  background-color: black;
   display: flex;
 }
 
@@ -73,5 +73,7 @@ th{
 }
 
 .button :hover{
-  
+  background-color: whitesmoke;
+  color: black;
+  text-decoration: none;
 }
