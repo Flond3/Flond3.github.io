@@ -33,6 +33,10 @@ th{
   height: 300px;
   background-image: linear-gradient(black,rgb(255, 240, 240));
 }
+.headersmall{
+  height: 100px;
+  background-image: linear-gradient(black,rgb(255, 240, 240));
+}
 
 .h1 {
   color: transparent;
