@@ -63,6 +63,6 @@ th{
 }
 
 .lien{
-  text-decoration: none;
   color: black;
+  text-decoration-line: none;
 }
