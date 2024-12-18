@@ -11,8 +11,8 @@ th{
 .button{
   text-align:center;
   align-items: center;
-  text-decoration-line: none;
-  text-decoration-color: whitesmoke;
+  text-decoration: none;
+  color: black;
   position: relative;
   border: solid, 1px;
   border-color: black;
