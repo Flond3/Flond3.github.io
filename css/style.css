@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(255, 240, 240);
+  background-color: #EBECD0;
   color: black;
   margin: 0;
 }
@@ -31,7 +31,7 @@ th{
 
 .header{
   height: 300px;
-  background-image: linear-gradient(#739552,#EBECD0);
+  background-image: linear-gradient(#739552,#EBECD0, 90%);
 }
 
 .titre {
