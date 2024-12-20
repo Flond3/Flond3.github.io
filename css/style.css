@@ -31,7 +31,7 @@ th{
 
 .header{
   height: 300px;
-  background-image: linear-gradient(black,rgb(255, 240, 240));
+  background-image: linear-gradient(#739552,#EBECD0);
 }
 
 .titre {
