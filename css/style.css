@@ -87,3 +87,10 @@ th{
   width: 331px;
   height: 331px;
 }
+
+.video{
+  align-self: center;
+  align-items: center;
+  width: 600px;
+  height: 400px;
+}
